@@ -1,0 +1,25 @@
+# sbt
+target/
+
+# OS / App generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+*~
+
+# Eclipse
+.settings
+.classpath
+.project
+target-eclipse
+
+# IntelliJ
+overlays
+*.iml
+*.iws
+*.ipr
+.idea/
+.idea_modules/
+
